@@ -1,8 +1,8 @@
 {
-  "name": "AFK Bot",
+  "name": "Bottystashy",
   "bot-account": {
     "username": "Botstash1234",
-    "password": "",
+    "password": "Minhthien472472",
     "type": "online"
   },
   "server": {
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": ""
+      "password": "Minhthien472472"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,7 +31,7 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to Orbitalminer!",
         "I like to play Minecraft!"
       ]
     },
