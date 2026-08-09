@@ -8,18 +8,18 @@
   "server": {
     "ip": "LegendaryOrbital.aternos.me",
     "port": 22718,
-    "version": "26.2"
+    "version": "26.2 (4646)"
   },
   "position": {
     "enabled": true,
     "x": 0,
-    "y": 100,
+    "y": 120,
     "z": 0
   },
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Slobos"
+      "password": ""
     },
     "anti-afk": {
       "enabled": true,
